@@ -1,5 +1,5 @@
 {
-    "name": "MaximilianKresse/sql-formatter",
+    "name": "maximilian-kresse/sql-formatter",
     "description": "a PHP SQL highlighting library fork of jdorn/sql-formatter",
     "homepage": "https://github.com/MaximilianKresse/sql-formatter/",
     "keywords": ["sql", "highlight"],
