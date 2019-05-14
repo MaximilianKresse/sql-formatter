@@ -1,7 +1,7 @@
 {
-    "name": "jdorn/sql-formatter",
-    "description": "a PHP SQL highlighting library",
-    "homepage": "https://github.com/jdorn/sql-formatter/",
+    "name": "MaximilianKresse/sql-formatter",
+    "description": "a PHP SQL highlighting library fork of jdorn/sql-formatter",
+    "homepage": "https://github.com/MaximilianKresse/sql-formatter/",
     "keywords": ["sql", "highlight"],
     "minimum-stability": "dev",
     "license": "MIT",
